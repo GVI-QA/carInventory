@@ -144,10 +144,6 @@ This is a full-stack car inventory application built with React (frontend) and N
 
 ## References
 
-HyperionDev React - React Routing Task (PDF)
-HyperionDev React - React Form Validation (PDF)
-React Router - Complete Tutorial - [YouTube Video](https://www.youtube.com/watch?v=oTIJunBa6MA&t=15s)
-Bootstrap documentation - [Bootstrap cards](https://react-bootstrap.github.io/docs/components/cards/)
-Bootstrap documentation - [Dropdowns](https://react-bootstrap.github.io/docs/components/dropdowns/)
-Bootstrap documentation - [Figures](https://react-bootstrap.github.io/docs/components/figures/)
-Formik docs - [Tutorial](https://formik.org/docs/tutorial)
+HyperionDev Backend - Database Interaction with MongoDB and Mongoose Task(PDF)
+Mongoose Crash Course - Beginner Through Advanced - [YouTube Video](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=113s)
+
